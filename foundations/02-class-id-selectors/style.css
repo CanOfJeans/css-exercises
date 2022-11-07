@@ -3,6 +3,11 @@ p {
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
+#NoThree {
+    font-size: 24px;
+
+}
+
 div {
     color: blue;
     font-size: 36px;
